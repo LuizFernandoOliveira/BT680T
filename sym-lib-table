@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BT680T_Generico-rescue")(type "KiCad")(uri "${KIPRJMOD}/BT680T_Generico-rescue.kicad_sym")(options "")(descr ""))
+)
